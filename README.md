@@ -21,7 +21,7 @@ A simple task management system for employees and administrators, leveraging **l
 - Mark tasks as completed.  
 
 ## **Technology Used**  
-- **Frontend**: HTML, CSS, JavaScript  
+- **Frontend**: HTML, CSS, JavaScript ,Reactjs 
 - **Storage**: Local Storage (browser-based)  
 
 ## **Installation & Usage**  
