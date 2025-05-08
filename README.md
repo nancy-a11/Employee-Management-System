@@ -1,12 +1,37 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+# **Employee Management System**  
+A simple task management system for employees and administrators, leveraging **local storage** for data persistence.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## **Features**  
+### **Admin Dashboard**  
+- Assign tasks to employees.  
+- Track pending tasks marked as important.  
+- View overall task status.  
 
-## Expanding the ESLint configuration
+### **Employee Dashboard**  
+- View assigned tasks.  
+- Check pending tasks.  
+- Mark tasks as completed.  
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## **Technology Used**  
+- **Frontend**: HTML, CSS, JavaScript  
+- **Storage**: Local Storage (browser-based)  
+
+## **Installation & Usage**  
+1. Clone the repository:  
+   ```sh
+   git clone <repository-url>
+   ```
+2. Open `index.html` in a browser.  
+3. Admin logs in to assign and manage tasks.  
+4. Employees check their dashboard and update task statuses.  
+
+## **Future Improvements**  
+- Implement authentication for role-based access.  
+- Enhance task filtering for better usability.  
+- Transition from local storage to a database for scalability.  
+
+
+
+
